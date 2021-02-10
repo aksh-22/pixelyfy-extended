@@ -1,0 +1,21 @@
+{
+    "account": [{
+        "id": 1,
+        "firstName": "akash",
+        "lastName": "khandelwal",
+        "email": "akashkhandelwal1999@gmail.com",
+        "password": "maybe"
+    }, {
+        "id": 2,
+        "firstName": "aksh",
+        "lastName": "khandelwal",
+        "email": "akashkhandelwal19998@gmail.com",
+        "password": "maybe1"
+    }, {
+        "id": 1,
+        "firstName": "aakash",
+        "lastName": "khandelwal",
+        "email": "akashkhandelwal199988@gmail.com",
+        "password": "maybe12"
+    }]
+}
